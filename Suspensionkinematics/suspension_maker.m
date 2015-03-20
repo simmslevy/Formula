@@ -2,7 +2,7 @@ function [ tree ] = suspension_maker( P, rod_type, plo )
 % Work
 % ALT: configure so any damper length can be given and function returns
 % ride config
-% TODO: Calculate Bump & Ride
+% TODO: Calculate Bump & Ride /////
 % TODO: Finish calculating link lengths
 % TODO: Figure out how it interfaces with aarm travel/write that code first
 % TODO: Improve optional plotter
